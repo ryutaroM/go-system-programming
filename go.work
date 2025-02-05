@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+	.
+	../../.goenv/versions/1.18.1/src
+)
